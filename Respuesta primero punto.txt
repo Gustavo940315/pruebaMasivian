@@ -1,0 +1,6 @@
+Se identifican los siguientes aspectos:
+
+1. Para el caso del metodo "saveContent" es importante generar un "throws FileNotFoundException".
+2. Para el caso de instanciar objetos es vital generar nombre dicientes que ayuden a mejorar su identificacion.
+3. Es importante tambien generar un Log que permita identificar la operacion que se esta ejecutando, junto con la informacion,
+   con esto en caso de un fallo por data incosisten o alguna casuistica que se presente sea posible identificar màs rapidamente.
